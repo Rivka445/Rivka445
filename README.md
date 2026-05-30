@@ -64,27 +64,33 @@ Strong foundation in software architecture, distributed systems, and clean code 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rivka445&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rivka445&layout=compact&theme=radical" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rivka445&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rivka445&layout=compact&theme=radical" width="35%"/>
+</p>
+
+<details>
+<summary>📈 More Stats</summary>
+<br/>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rivka445&theme=radical&hide_border=true" width="45%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rivka445&theme=radical&hide_border=true" width="60%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rivka445&theme=react-dark&hide_border=true&area=true" width="80%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rivka445&theme=react-dark&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rivka445&theme=radical" width="80%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rivka445&theme=radical" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rivka445&theme=radical" width="26%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rivka445&theme=radical" width="26%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rivka445&theme=radical" width="26%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rivka445&theme=radical" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rivka445&theme=radical" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rivka445&theme=radical" width="32%"/>
-</p>
+</details>
 
 ---
 
